@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: me.seunghak.restapiwithspring.events.EventControllerTests
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.759 s - in me.seunghak.restapiwithspring.events.EventControllerTests

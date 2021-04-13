@@ -1,0 +1,7 @@
+me\seunghak\restapiwithspring\configs\AuthServerConfigTest.class
+me\seunghak\restapiwithspring\events\EventTest.class
+me\seunghak\restapiwithspring\common\RestDocsConfiguration.class
+me\seunghak\restapiwithspring\common\BaseControllerTest.class
+me\seunghak\restapiwithspring\events\EventControllerTests.class
+me\seunghak\restapiwithspring\index\IndexControllerTest.class
+me\seunghak\restapiwithspring\accounts\AccountServiceTest.class
